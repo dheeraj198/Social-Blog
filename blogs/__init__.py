@@ -33,3 +33,4 @@ from blogs.users.views import users
 app.register_blueprint(core)
 app.register_blueprint(error_pages)
 app.register_blueprint(users)
+//good work
